@@ -57,4 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-![1](https://github.com/MrTineth/GitHub-Profile-Search-App-Using-React-JS/assets/106744622/009c30c7-406f-44a6-8943-c47b4e6261e8)
+![1](https://github.com/MrTineth/GitHub-Profile-Search-App-Using-React-JS/assets/106744622/31f78458-ee46-4f3f-8690-55b0345ede01)
+
