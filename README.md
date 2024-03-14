@@ -60,3 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+![1](https://github.com/MrTineth/GitHub-Profile-Search-App-Using-React-JS/assets/106744622/5c1c8e7f-fbe9-4f4d-9320-dbbf508b697c)
+
+
